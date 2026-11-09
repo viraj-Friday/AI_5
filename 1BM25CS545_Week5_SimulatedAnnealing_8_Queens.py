@@ -69,5 +69,4 @@ if __name__ == "__main__":
     print("Cost:", calculate_cost(solution))
     print("\n8-Queens Board:")
     print_board(solution)
-    print()
-    print("SHRIHARI SUDHAKAR BADIGER: 1BM25CS522")
+
