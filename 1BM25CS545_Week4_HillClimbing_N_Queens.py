@@ -72,5 +72,3 @@ if __name__ == "__main__":
     solution, success = hill_climbing_4_queens(initial_config)
     print("\nFinal Chessboard Configuration:")
     print_board(solution)
-    print()
-    print("SHRIHARI SUDHAKAR BADIGER: 1BM25CS522")
