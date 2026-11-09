@@ -71,5 +71,4 @@ if __name__ == "__main__":
     for query_name, alpha in queries.items():
         check_entailment(valid_models, alpha, query_name)
 
-    print()
-    print("SHRIHARI SUDHAKAR BADIGER: 1BM25CS522")
+
